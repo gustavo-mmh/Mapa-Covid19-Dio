@@ -1,4 +1,4 @@
-# Mapa Covid 19
+# Mapeando o Covid 19
 
 
 ## 📌 Sobre este Projeto
@@ -28,7 +28,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 
 ## 🌎 Ver Site Funcionando
 
--  [Ver Site](https://627de8efdba3121db9d17eb9--map-covid-19.netlify.app/)
+-  [Ver Site](https://map-covid-19.netlify.app/)
 
 ## ⚠️ Instalando -Website de Portfólio Pessoal-
 
