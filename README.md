@@ -2,7 +2,7 @@
 
 
 ## 📌 Sobre este Projeto
-
+Desafio ReactJs PWA DIO
 Desenvolvimento e publicação de uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo. Foram criados painéis que recebem dados de uma API com o Total de casos de Covid, casos no dia, de óbitos no dia, total de óbitos por Coivd e total de recuperados da Covid, de 5 países, (Alemanha, Brasil, Cina, Eua e Itália) com um botão para compartilhar as informações e um botão select que troca de forma dinâmica os dados dos painéis de acordo com o país.
 A aplicação pode ser executada no browser e funciona como aplicativo contendo algumas funcionalidades de um aplicativo nativo.
 
